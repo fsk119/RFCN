@@ -27,6 +27,6 @@ You can use this instruction to start training:
 More details about how to use this code to train on your own data, you can refer to tensorpack/examples/FasterRCNN.
 
 ## Results
-Currently, I get mAP on VOC trainval is 72.5%.
+Currently, I get mAP on VOC trainval is 74.5%.
 
 
